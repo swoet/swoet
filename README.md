@@ -61,7 +61,7 @@ Security & Blockchain: Pen-testing basics, automation scripts, blockchain protot
 
    
 
-<a href="https://github.com/swoet/flutter-enterprise-app"> <img src="https://raw.githubusercontent.com/swoet/flutter-enterprise-app/main/demo.gif" height="150px" alt="Flutter Enterprise App"/> <br> <sub>**Flutter Enterprise App** — Flutter, Dart, Mobile</sub> </a> </p>
+<a href="https://github.com/swoet/flutter-enterprise-app"> <img src="https://raw.githubusercontent.com/swoet/flutter-enterprise-app/main/demo.gif" height="150px" alt="Flutter Enterprise App"/> <br> <sub>**Flutter Enterprise App** — Flutter, Dart, Mobile</sub> </a>
 
    
 
